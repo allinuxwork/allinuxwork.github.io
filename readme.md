@@ -6,3 +6,6 @@
 ```bash
 git clone https://github.com/allinuxwork/allinuxwork.github.io.git
 ```
+https://allinuxwork.github.io/
+
+[My page on Github]:http://example.com
